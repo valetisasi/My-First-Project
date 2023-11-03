@@ -1,7 +1,7 @@
 public class User {
-        private String name;
-        private int age;
-        private int exercisesCompleted;
+         String name;
+         int age;
+         int exercisesCompleted;
 
         public User(String name, int age) {
             this.name = name;
@@ -21,7 +21,7 @@ public class User {
             return exercisesCompleted;
         }
 
-        public void completeExercise(Example exercise) {
+        public void completeExercise(Exercise exercise) {
             // Increment the exercisesCompleted count when a user completes an exercise
             exercisesCompleted++;
         }

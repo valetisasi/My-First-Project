@@ -1,5 +1,4 @@
-public class Example {
-    public class Exercise {
+public class Exercise {
         private String name;
         private int difficultyLevel;
         private int durationMinutes;
@@ -56,4 +55,4 @@ public class Example {
                     '}';
         }
     }
-}
+
