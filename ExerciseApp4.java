@@ -8,7 +8,7 @@ public class ExerciseApp4 {
         ArrayList<User> users = new ArrayList<>();
 
         while (true) {
-            System.out.println("\nMenu Options:");
+            System.out.println("Menu Options:");
             System.out.println("1. Add a new exercise");
             System.out.println("2. Display available exercises");
             System.out.println("3. Select an exercise to complete");
