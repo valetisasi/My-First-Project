@@ -5,6 +5,7 @@ interface  Sample1 {
 class Demo1 implements  Sample1 {
     public void test1() {
         System.out.println("test1 implemted");
+
     }
 }
 class S1 {
